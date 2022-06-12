@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'DiMA User Manual'
+project = 'ViTA User Manual'
 copyright = '2021, Authors'
 author = 'Authors'
 
