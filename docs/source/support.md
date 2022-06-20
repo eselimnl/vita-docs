@@ -1,6 +1,6 @@
 ## FAQs 
 
-1.	How to cite?
+1.How to cite?
 For now: https://dim-devel.bioinfo.perdanauniversity.edu.my
 
 ## Support
